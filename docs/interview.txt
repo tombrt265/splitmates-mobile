@@ -1,0 +1,16 @@
+Interview mit Matthias Sülzer, Sponsor von SplitMates
+
+Frage: Herr Sülzer, was ist Ihnen bei der Entwicklung von SplitMates am wichtigsten?
+Antwort: Für mich steht im Mittelpunkt, dass die Basisfunktionen absolut zuverlässig funktionieren. Benutzer müssen in der Lage sein, sich unkompliziert anzumelden – ob mit klassischem Konto, PayPal, oder den Standardangaben wie Name, Username und E-Mail. Nur wenn dieser Grundstein steht, können wir Vertrauen aufbauen.
+
+Frage: Welche Funktionen darf die App zum Start auf keinen Fall missen?
+Antwort: Ganz klar: Die Möglichkeit, Gruppen anzulegen und auch wieder zu deaktivieren. Menschen nutzen so eine App vor allem im Freundeskreis, im Urlaub oder in Wohngemeinschaften. Und innerhalb dieser Gruppen muss es ganz einfach sein, Ausgaben fair aufzuteilen – ohne dass jemand manuell rechnen muss. Das ist der Kernnutzen von SplitMates.
+
+Frage: Gibt es darüber hinaus Features, die Sie als Mehrwert sehen, die aber nicht unbedingt zum Start nötig sind?
+Antwort: Ja, wir sprechen hier von den „nice to have“-Funktionen. Ich denke da an die Kategorisierung von Ausgaben – also dass man sehen kann, ob das Geld eher für Essen, Freizeit oder Sonstiges ausgegeben wurde. Außerdem finde ich die Idee mit dem „Roulette“ charmant: Man lässt den Zufall entscheiden, wer die nächste Runde zahlt. Das bringt nicht nur Spaß rein, sondern stärkt auch die Dynamik in der Gruppe. Und natürlich sind Statistiken sehr wertvoll – also Übersichten, wie viel insgesamt ausgegeben wurde, wer wie viel beigetragen hat und welche Kategorien die größten Kostenblöcke darstellen.
+
+Frage: Und wenn Sie in die Zukunft blicken – welche Vision haben Sie für SplitMates?
+Antwort: Wenn wir es schaffen, dass die Nutzer innerhalb der App direkt Kontoabbuchungen vornehmen können, wären wir auf einem ganz anderen Level. Das würde bedeuten, dass SplitMates nicht nur eine Ausgaben-App ist, sondern ein echter Finanzhelfer im Alltag. Das ist aktuell noch ein „wish to have“, aber langfristig könnte es uns vom Wettbewerb abheben.
+
+Frage: Gibt es etwas, das Sie den Entwicklern von SplitMates mit auf den Weg geben möchten?
+Antwort: Ja – die Balance ist entscheidend. Wir dürfen uns nicht in zu vielen Zusatzfeatures verlieren, bevor die Basis funktioniert. Erst wenn Benutzer die App als stabil, zuverlässig und benutzerfreundlich empfinden, lohnt es sich, Schritt für Schritt die Extras aufzubauen. Aber wenn wir dranbleiben, kann SplitMates eine App werden, die man nicht mehr missen möchte.
